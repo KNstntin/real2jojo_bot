@@ -1,0 +1,11 @@
+https://download.pytorch.org/whl/cpu/torch-1.5.1%2Bcpu-cp36-cp36m-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torchvision-0.6.1%2Bcpu-cp36-cp36m-linux_x86_64.whl
+certifi==2020.12.5
+chardet==4.0.0
+idna==2.10
+numpy==1.19.5
+Pillow==8.1.0
+pyTelegramBotAPI==3.7.6
+requests==2.25.1
+typing-extensions==3.7.4.3
+urllib3==1.26.2
